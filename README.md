@@ -4,3 +4,4 @@ My work on the Home Credit risk database. Includes data, exploratory analysis, f
 
 ## Dataset
 The data can be found at https://www.kaggle.com/c/home-credit-default-risk/data
+![Data](home_credit_risk/home_credit_data_description.png)
