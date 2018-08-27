@@ -9,3 +9,8 @@ The data can be found at https://www.kaggle.com/c/home-credit-default-risk/data
 Entity relationship diagram of the entire dataset:
 <img src="home_credit_data_description.png" align="center" />
 
+## Exploratory Data Analysis
+The folder 'Feature Engineering' contains all exploratory data analysis done as multiple jupyter notebooks. To sum it up, all variables were explored, skewness of data and anomalies checked and new features were generated based on whatever domain knowledge I could get.
+
+## Predictive models
+I've tried predicting the outcomes for the test dataset using engineered features and many different machine learning algorithms. That can be found in the 'Models' folder.
